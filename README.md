@@ -43,13 +43,13 @@ It allows employees to apply for leave, managers to approve or reject requests, 
 ```bash
 git clone https://github.com/ANDREA-NARCIS/Employee-Leave-Management.git
 
-**Step 2: Navigate to Project Folder***
+###**Step 2: Navigate to Project Folder***
 cd employee-leave-management
 
-**Step 3: Build Project**
+###**Step 3: Build Project**
 mvn clean install
 
-**Step 4: Run Application**
+###**Step 4: Run Application**
 mvn exec:java -Dexec.mainClass="com.employee.main.App"
 
 **📋 Functionalities**
